@@ -8,4 +8,7 @@
 printf("this is my code example");
 ```
 
-Added code example
+- [x] Make task list
+- [x] Check changes in Preview
+- [ ] Commit changes
+
